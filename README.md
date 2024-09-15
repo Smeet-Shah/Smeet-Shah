@@ -1,6 +1,6 @@
 # Hey, I'm Smeet Shah!
 
-👋Hello Wrld, I'm Smeet Shah, a Computer Science student at The University of Waterloo pursuing a career in software development, software testing, and AI/ML.
+👋print("Hello, World!"), I'm Smeet Shah, a Computer Science student at The University of Waterloo pursuing a career in software development, software testing, and AI/ML.
 
 💻 I specialize in full-stack development, integrating Next.js and React.js with TailwindCSS for a dynamic front-end interface. For the back-end, I LOVE LOVE LOVE Python and use Java, C/C++, with Django for robust web applications. My machine learning expertise are growing but include PyTorch, along with Keras, and XGBoost. I am also able manage databases with MongoDB and SQLite. Working on learning how to use Jupyter notebook for some really cool stuff!
 
