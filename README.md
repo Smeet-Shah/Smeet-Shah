@@ -3,7 +3,7 @@
 Hi I'm Smeet, i love basketball, puzzles, programming and jamming to music.
 Im in Computer Science at the University of Waterloo.
 
-💻 I specialize in full-stack development, integrating Next.js and React.js with TailwindCSS for a dynamic front-end interface. For the back-end, I LOVE LOVE LOVE Python and use Java, C/C++, with Django for robust web applications. My machine learning expertise are growing but include PyTorch, along with Keras, and XGBoost. I am also able manage databases with MongoDB and SQLite. Working on learning how to use Jupyter notebook for some really cool stuff!
+💻 I specialize in full-stack development, integrating Next.js and React.js with TailwindCSS for a dynamic front-end interface. For the back-end, I love Python and use Java, C/C++, with Django for robust web applications. My machine learning expertise are growing but include PyTorch, along with Keras, and XGBoost. I am also able manage databases with MongoDB and SQLite. Working on learning how to use Jupyter notebook for some really cool stuff!
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/sachin-ved-gupta](https://www.linkedin.com/in/s26shah/)) 
@@ -14,8 +14,3 @@ Im in Computer Science at the University of Waterloo.
 # 🏋 Hobbies: 
 I love to make projects on things that make my life easier. Anytime I find something annoying, I am actively trying to find a way to automate or code a solution! With that said, I'd love to solve your problems (kind of), reach out!
 When I'm procrastinating my code, I love to play badminton, basketball, cricket, workout, and basically anything that involves something moving!
-
-# 💻 Projects:
-I have a bunch of projects ready to post, just waiting on getting my last laptop fixed with all my files 😥
-
-PORTFOLIO COMING SOON...
