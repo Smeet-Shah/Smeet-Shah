@@ -2,7 +2,7 @@
 # Hey, I'm Smeet!  
 
 🎓 im a CS student at the University of Waterloo   
-🔍 **Seeking Fall 2025 Co-op Opportunities**  
+🔍 **Seeking Summer 2026 Co-op Opportunities**  
 
 I love building practical solutions—whenever I find something annoying, I try to automate or code a fix, so a lot of my projects are just things to make life easier. I'm always excited to tackle new challenges, so feel free to reach out! When I'm procrastinating my code, I love to play badminton, basketball, cricket, or workout. Basically anything that involves something moving!
 
@@ -14,7 +14,7 @@ I love building practical solutions—whenever I find something annoying, I try 
 - I'm also improving my **machine learning skills**
 - exploring ways to build **practical solutions** for everyday challenges
 
-🚧 **Also hard at work as SWD @ WageX!** 🚧 
+🚧 **Also hard at work as SWE @ WageX && Shopify!** 🚧 
 
 ---
 
